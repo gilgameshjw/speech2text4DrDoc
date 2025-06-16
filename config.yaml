@@ -1,0 +1,20 @@
+# Dictionary template
+language_model:
+  openai:
+    api_key: sk-proj-... 
+
+letter_variables:
+    "ID du patient": ''
+    "consommation d'alcool": ''
+    "consommation de fruits et légumes": ''
+    "date du test": ''
+    "exposition à la fumée de tabac": ''
+    "impact épigénétique de l'activité physique": ''
+    "impact épigénétique de l'exposition à la fumée de tabac": ''
+    "impact épigénétique de la consommation d'alcool": ''
+    "impact épigénétique de la consommation de fruits et légumes": ''
+    "minutes d'activité physique par semaine": ''
+    "âge biologique du patient": ''
+    "âge biologique relatif du patient": ''
+    "âge épigénétique du patient": ''
+
